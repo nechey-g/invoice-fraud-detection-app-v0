@@ -1,0 +1,401 @@
+TIN,name,address,contact,sector,bank_account,registration_date,is_blacklisted
+TIN00000,Cisneros-Taylor,"798 Fischer Meadows
+West Joseph, OK 99650",904.626.8406,Retail,GB10KXYQ33520885813694,2022-07-05,False
+TIN00001,Hansen LLC,"4064 Alexander Loop
+Rachelview, SD 34945",001-871-916-5784x2622,Retail,GB17XFFE20779498865955,2023-03-21,False
+TIN00002,Villarreal-Edwards,"731 Lopez Pass
+East Carolineshire, MN 76710",(584)658-0488x3304,IT Services,GB82SQSW07101617586565,2024-06-25,False
+TIN00003,Simpson-Brennan,"52021 Fernandez Skyway Apt. 560
+Kellymouth, UT 51179",396.842.9240x871,Manufacturing,GB96YDFA74992388774846,2023-02-22,False
+TIN00004,"Mckinney, Dennis and Lopez","230 Tyler Tunnel
+East Michael, NY 83175",698-419-1641x45648,Manufacturing,GB65LZIT87893241872910,2022-12-21,False
+TIN00005,Obrien-Simmons,"670 Keith Streets Suite 797
+East Jameschester, MA 43846",001-581-437-7605x53889,Manufacturing,GB20UBMQ28612004617563,2022-07-27,False
+TIN00006,"Nelson, Kim and Franklin","3056 Mccarthy Pines Suite 432
+Christopherfurt, NC 26566",526.775.1680x824,Retail,GB88WIAJ77663950934510,2022-10-04,False
+TIN00007,"Norton, Harper and Palmer","2624 Brian Curve
+Davidhaven, VI 12810",001-708-825-1879x6354,Healthcare,GB45FAIT45438145220490,2023-08-16,False
+TIN00008,Burnett Ltd,"1918 Tina Rest Suite 468
+Michaelmouth, VA 44552",(722)562-7557x99037,Retail,GB93MNSN22149863060933,2022-08-24,False
+TIN00009,"Smith, Terry and Salazar","3799 Jason Estate Suite 713
+North Rachelborough, OK 74855",(432)518-2797x2318,Healthcare,GB23WRSR44568002158812,2021-05-25,False
+TIN00010,"Hall, Ford and Simmons","704 Denise Cliffs Suite 223
+Wendyview, OH 84922",001-929-385-2575x82599,Construction,GB59CLBC22605409195965,2022-02-22,False
+TIN00011,"Charles, Klein and Hurst","7110 Hall Mill Apt. 817
+New Christopherhaven, PR 87922",(585)425-1963,Retail,GB22WMFL09789030784961,2022-09-09,False
+TIN00012,Webster Inc,"098 Rhonda Lock
+South Christinaton, OH 77372",+1-559-880-8300,Retail,GB31FWRM60861412418095,2021-03-24,False
+TIN00013,"Young, Stanton and Deleon","129 Eric Extension
+New Crystalshire, TX 80005",531.830.0849x167,Retail,GB26BRJE65075764245819,2022-01-24,False
+TIN00014,Stanley LLC,"357 May Freeway Suite 456
+Lake Amandaside, LA 69183",516.941.5649x1362,Manufacturing,GB27NBMI54519083470952,2022-09-23,False
+TIN00015,Hernandez Ltd,"228 Prince Trail
+Ortizton, VI 85499",001-854-655-0183,Manufacturing,GB71KZMC06745793262038,2021-09-24,True
+TIN00016,Barrett PLC,"6598 Ashley Garden Apt. 939
+West Elizabethton, ND 02034",+1-797-626-1147x86910,Healthcare,GB45HOPL69754724366984,2021-04-19,False
+TIN00017,Williams PLC,"460 Jackson Tunnel
+Jeffreytown, WY 90187",(696)943-8344x628,Healthcare,GB10ROPE33517581597963,2022-06-26,False
+TIN00018,Bowman-Wong,"00262 Freeman Meadow Suite 960
+New Jamesmouth, SC 89510",001-759-858-7004x033,Retail,GB91TUUE70826331456825,2022-09-28,True
+TIN00019,Warren Inc,"00427 Hopkins Bypass Apt. 866
+Reedville, GU 58806",314.745.8367,Healthcare,GB49YRFL21774434773371,2023-03-04,False
+TIN00020,Rhodes-Lloyd,"107 Washington Parkway
+Fostermouth, TX 79847",665.723.8438,Manufacturing,GB79CCQB16877517488924,2024-07-04,False
+TIN00021,Williams PLC,"976 Stone Summit
+Davidberg, MP 55961",+1-617-636-5615,Healthcare,GB83FQOE63360861285712,2022-01-20,False
+TIN00022,Lopez-Reed,"903 Caroline Glen
+East Shaunhaven, MI 84007",716-869-2968x041,Construction,GB90HOSS13275133885078,2023-08-01,False
+TIN00023,Jackson-Wallace,"8212 Brandy Via Apt. 229
+South Samantha, FM 32345",402.644.0411,Manufacturing,GB65TBZQ68796896724815,2022-12-19,False
+TIN00024,Gardner Ltd,"02957 Jones Land Apt. 895
+Cassiebury, NY 83408",8023653609,Construction,GB58HDTF77133007135884,2024-07-03,False
+TIN00025,Garrett and Sons,"87139 Mckinney Stravenue Suite 739
+Rossstad, NE 38544",992-508-0539x47073,Healthcare,GB22UNGS14921536889472,2021-05-01,False
+TIN00026,"Rhodes, Cook and Kennedy","06939 Mckinney Mission
+Jamesbury, GA 66885",272-722-4571,IT Services,GB86RGYD22630295236027,2024-04-19,False
+TIN00027,Morgan-Rodriguez,"33937 Carmen Fords Suite 101
+South Meganborough, OR 09454",(474)520-6353,Retail,GB39IOSF40054584230699,2024-01-03,False
+TIN00028,Wells PLC,"37424 Johnson Locks Apt. 191
+South Jeffreystad, WY 77554",(621)360-8272,Manufacturing,GB49VHBG01327578986638,2021-03-09,False
+TIN00029,Rodriguez PLC,"334 Matthew Glen Suite 543
+East Karenfurt, NH 77690",(957)644-9893x7641,Construction,GB71SORV04637755321398,2022-11-24,False
+TIN00030,"Banks, Jones and Smith","7944 Jones Fields
+Dudleyberg, IN 89934",+1-443-648-2325x8023,IT Services,GB29ADAI57728197934002,2022-09-25,False
+TIN00031,Davis Ltd,"Unit 8765 Box 5128
+DPO AE 44065",(677)978-6908x9895,IT Services,GB40TOOR44646938364698,2022-02-09,False
+TIN00032,"Hughes, Bean and Gordon","2021 Mark Place Apt. 426
+Delgadoburgh, KY 21023",565.867.9208x7419,Manufacturing,GB70WCYI46197067007593,2023-12-04,False
+TIN00033,Moore Group,"PSC 5328, Box 5702
+APO AP 54263",212-801-3829x5386,Manufacturing,GB36WRGF95581931206767,2024-04-05,False
+TIN00034,Garza-Lee,"51378 Scott Haven Apt. 294
+North Jeffreyfort, MH 30247",(880)848-3237,IT Services,GB28RJHU56060259681827,2022-03-01,False
+TIN00035,"West, King and Briggs","Unit 5222 Box 6772
+DPO AP 13933",+1-300-309-7686,Retail,GB56MUXB17864902186151,2023-07-16,False
+TIN00036,Hatfield-Webster,"44739 Allen Knolls
+Carlport, AR 24591",455.348.8150x5845,Retail,GB26IHUJ26060916225371,2021-09-02,False
+TIN00037,"Tran, Williams and Adkins","577 Hinton Shore Suite 192
+New Eric, SD 26456",+1-783-860-4358x948,Construction,GB19RQUC08222773604000,2022-05-03,False
+TIN00038,Cole Group,"USNS Adams
+FPO AE 19209",(980)410-6950,Retail,GB60KIOY02515370001764,2021-11-04,False
+TIN00039,"Smith, Hess and Gonzalez","USNV Shaw
+FPO AE 96606",001-751-829-1771x2304,IT Services,GB43IXOR40430534244097,2021-07-22,False
+TIN00040,"Morris, Buck and Watson","533 Harper Isle Suite 250
+Rodgersshire, OR 52156",821-918-7023,IT Services,GB30AZMK06472874247867,2023-02-12,False
+TIN00041,"Ball, Patterson and Giles","2777 Robinson Spur
+West Debraton, IN 27202",907.463.9092,Healthcare,GB56SNSG17694984236798,2022-03-30,False
+TIN00042,"Riggs, Harrell and Thomas","4132 Mary Way
+West Dianachester, MT 86475",367-917-8509,IT Services,GB76DWPG11002399941282,2022-03-19,False
+TIN00043,Mosley-Wyatt,"742 Hammond Overpass
+North Maurice, IN 66091",+1-950-240-9942x606,Retail,GB46JJZM38325061813849,2020-12-28,False
+TIN00044,"Hayes, Hines and Harris","81721 Kelly Lock Apt. 133
+South Tracybury, SD 66627",001-535-766-9505x47278,Construction,GB31SVZU42718686100205,2022-06-08,False
+TIN00045,Cooley Group,"3470 Patricia Park
+New Teresamouth, PR 61944",(694)424-8393x4784,Healthcare,GB80XSZA60362305820855,2022-01-19,False
+TIN00046,Stewart-Hansen,"116 Patricia Courts Suite 523
+North Jerry, PR 19045",(835)350-2190x194,Retail,GB91UFWJ80872542121301,2024-05-24,False
+TIN00047,Carroll Group,"117 Benitez Mountain Suite 099
+Penaville, CA 95035",+1-572-287-8147x72670,Construction,GB84CVIF83772913815194,2021-11-20,False
+TIN00048,Cook-Spencer,"602 Tiffany Passage
+West Shannonbury, RI 59823",(634)361-2998x196,Retail,GB77MJHY13916153785919,2021-04-05,False
+TIN00049,Rivers-Castillo,"51498 Hayes Crescent Apt. 122
+Davidton, IL 23465",259-979-1807x7823,Healthcare,GB68TMWY85990963047996,2022-03-15,False
+TIN00050,Sullivan Group,"2688 Harold Alley Suite 473
+South Hannahberg, MT 48250",813.569.0840x64019,IT Services,GB43RCXK88138637380916,2020-08-28,False
+TIN00051,Taylor and Sons,"3497 Robert Pines
+Harperburgh, CO 56920",001-429-572-3476,Healthcare,GB69GFHO07390441590312,2022-05-20,False
+TIN00052,"Lee, Flores and Davis","95406 Karen Rapids
+Hunterberg, TX 53132",532-953-5821,IT Services,GB60WIBA12417375148641,2022-10-17,False
+TIN00053,Thomas and Sons,"94256 Miranda Row Apt. 876
+South Stacyfort, ID 84711",220-937-5186,Healthcare,GB77TCAH53482926895651,2021-05-16,False
+TIN00054,"Smith, Shea and Brooks","292 Washington Drives Suite 501
+South Dawn, UT 99172",(287)258-8114,Manufacturing,GB35APJG83600312806900,2022-02-26,False
+TIN00055,Kirk-Lawrence,"37727 Sarah Expressway
+Morrisonton, NE 96285",(969)675-3076x237,Retail,GB14CUDS79401563753747,2020-12-19,False
+TIN00056,Jordan Inc,"6426 Davis Walks
+South Danielberg, MD 49815",326.648.5135,Retail,GB27IVAJ42998507015809,2022-10-29,False
+TIN00057,"Gutierrez, Rogers and Martinez","PSC 8607, Box 7669
+APO AP 98444",+1-666-456-1438x1928,Manufacturing,GB72AHWF93384929853220,2020-10-28,False
+TIN00058,Barajas-Williams,"21000 Claudia Tunnel Suite 134
+South Brianland, PA 44717",(587)638-5539x30404,IT Services,GB04KSDE71819135247898,2023-11-11,True
+TIN00059,Davis-Arnold,"4996 Robinson Unions Apt. 029
+Port Kelly, PA 06584",+1-549-684-8805x697,Retail,GB88VXJJ77204445098825,2020-11-18,False
+TIN00060,"Chang, Curry and Davis","8522 Wesley Square
+Karenview, NV 49994",+1-905-396-0688x94860,Manufacturing,GB27KJJC06550329793721,2024-02-14,False
+TIN00061,Hebert-Rodriguez,"72991 Carolyn Curve
+South Christopher, DE 54214",981.858.3566x1662,Retail,GB02YUZH58318827158075,2020-11-20,False
+TIN00062,"Jacobson, Perez and Jensen","40991 Maldonado Mountain
+North Mary, ID 53345",001-584-966-3947,Construction,GB51RULU72288518131723,2023-09-10,False
+TIN00063,Edwards-Ramirez,"5133 Lee Squares Suite 346
+Cummingsstad, MH 96345",3199807718,IT Services,GB91NAPL13057674687849,2022-03-02,False
+TIN00064,"Morris, Williams and Davis","3916 Lambert Islands
+Alvarezhaven, CT 72717",+1-785-748-0126x41047,Construction,GB08VYDM16801276951198,2022-10-04,False
+TIN00065,Butler Ltd,"048 Coleman Junctions
+Susanmouth, AS 95938",001-764-641-4068,IT Services,GB79TCRL99559461332499,2022-12-11,False
+TIN00066,"Hill, Alexander and Shields","989 James Burgs
+Danielleville, FM 27632",+1-904-882-8751,Manufacturing,GB56JEYE95923087117536,2022-12-29,False
+TIN00067,Henson and Sons,"21607 Scott Flats
+New Charles, CA 07049",001-636-209-5321x462,IT Services,GB27CQDM30362424577028,2022-01-03,False
+TIN00068,Anderson LLC,"5697 Gregory Isle Suite 276
+Sherrishire, RI 01081",+1-494-997-2189x4941,IT Services,GB24DZUS14552877241404,2024-06-18,False
+TIN00069,Werner Group,"3850 Parks Island
+East Lori, IA 04321",001-528-595-4674x73341,Manufacturing,GB21NJFI72245695883460,2022-09-05,False
+TIN00070,"Young, Gross and Townsend","4749 Davis Run
+East Amber, MD 26573",(215)688-5012,IT Services,GB03XOUH89948658855166,2022-12-05,False
+TIN00071,Reynolds-Butler,"844 Hess Prairie Apt. 614
+Hillside, IL 83173",775-617-1205x727,Retail,GB73CWBG11168597113286,2023-04-26,False
+TIN00072,Brennan-Rogers,"413 Trevor Shores Apt. 434
+Lake Shellyview, NC 15336",469-590-3194,Healthcare,GB86RTWP68273360210237,2024-01-22,False
+TIN00073,Carlson Inc,"393 Jim Path Suite 817
+South Janetburgh, HI 26245",001-691-618-9519,Manufacturing,GB04EHNG46956455318312,2022-02-05,False
+TIN00074,Reyes-Moreno,"34512 Erin Alley Apt. 343
+West Kyle, CO 06304",672.392.0014x8083,Healthcare,GB55GTQA96849586889608,2021-06-22,False
+TIN00075,Thomas-Ford,"298 James Burgs Apt. 801
+South Luke, NC 93950",+1-832-851-0877x8746,Manufacturing,GB35IUMH50088099574070,2023-06-16,False
+TIN00076,"Jimenez, Rodriguez and Sanders","412 Evans Ville
+Hartland, LA 20445",994-917-2683,Manufacturing,GB92SIUJ72116681701581,2024-06-24,False
+TIN00077,Jones-Williams,"5803 Jeremy Manors Suite 230
+West Timothymouth, NC 16330",698.305.9599x91781,Construction,GB36GFWI61978970397537,2024-06-29,False
+TIN00078,Turner Ltd,"463 Martinez Flat Apt. 924
+East Carlyfort, WA 65247",(721)294-5108x7824,Construction,GB29LPFW23642833210237,2021-07-12,False
+TIN00079,"Nguyen, Santos and Strickland","44754 Perez Freeway
+Curtisberg, DC 23601",+1-688-396-6951x59612,IT Services,GB09JFIL65371295169553,2024-04-21,False
+TIN00080,Green-Watson,"240 Ortiz Gateway
+North Robert, AR 92251",+1-496-729-6208,Healthcare,GB40ODQR20964005673079,2022-01-28,False
+TIN00081,Jefferson Inc,"384 Allison Plains
+Catherinehaven, WI 51605",(511)906-6139,Manufacturing,GB93IASC29634337898407,2020-11-10,False
+TIN00082,"Jones, Campbell and Manning","1108 Neal Trace
+Floresfurt, OH 03154",4567865044,IT Services,GB94GBZS38387472746073,2022-11-26,False
+TIN00083,Cook Group,"USNV Davis
+FPO AA 13951",+1-542-698-4530,Retail,GB22VNVX65364826282461,2021-04-12,False
+TIN00084,Flowers-Miller,"7707 Sarah Prairie
+Port Michaelfurt, NM 03127",251.336.5794,Manufacturing,GB31VLKE06409841839633,2023-12-22,False
+TIN00085,Becker Group,"1231 Tammy Tunnel Suite 906
+Anthonyfurt, AZ 77731",988-297-9805x30417,Retail,GB64ZBVO12433184301566,2021-02-03,False
+TIN00086,"Choi, Wilson and Vargas","2083 Andrea Tunnel
+North Aaronport, VT 58565",+1-987-730-1282x745,IT Services,GB33DYWE73225432296858,2020-11-23,False
+TIN00087,"Ruiz, Heath and Walter","81210 James Trail
+South Edwardton, VT 56775",+1-602-424-3751x05442,Construction,GB22HKSR18156377705342,2024-01-18,False
+TIN00088,"Davis, Hall and Davis","86892 Ballard Walks Suite 809
+Brianstad, VT 92042",(303)404-7317,IT Services,GB60IWJB20973723381553,2023-09-25,False
+TIN00089,"Allen, Harris and Garcia","77158 Conley Brook Apt. 873
+North Joseph, IL 23828",+1-668-465-7802x69559,Retail,GB54NJHZ33948442670974,2024-06-12,False
+TIN00090,Spencer-Smith,"1895 David Mills Apt. 894
+New Geoffreyburgh, VT 97589",500-519-9143,Manufacturing,GB56KYAY96835120335151,2023-02-12,False
+TIN00091,Gilbert Inc,"56398 Michael Village Suite 003
+East Joseland, PR 02271",001-373-287-6307,Healthcare,GB89CXAK30606216674169,2021-05-24,False
+TIN00092,Maxwell-Hale,"1628 Berry Spurs Apt. 703
+Lake Kennethland, MT 13740",001-754-491-7562x6191,IT Services,GB83HRGK48551369364199,2022-04-10,False
+TIN00093,"Fisher, Tucker and Reilly","USNS Tran
+FPO AE 16738",001-249-796-6340,Manufacturing,GB58TRSQ20386230498507,2024-01-31,False
+TIN00094,Barton Group,"757 Hart Mission Apt. 876
+Brucefurt, CO 70498",983-366-9100x18557,Construction,GB90MEME15320495782678,2020-10-29,False
+TIN00095,Rhodes PLC,"163 David Shore Suite 036
+South Ericastad, ME 29214",542-957-7714,Construction,GB65GQRM32258602386410,2023-10-19,False
+TIN00096,Nichols PLC,"78189 Betty Course
+South Stephanieview, CA 53555",5443734291,Construction,GB33UCYZ98105659288771,2024-05-12,False
+TIN00097,Smith-Alexander,"5646 Marquez Terrace Suite 976
+Lake Markside, MA 98557",+1-630-296-2369,Manufacturing,GB76OJRG44198632001721,2022-08-02,False
+TIN00098,"Jones, Buchanan and Gordon","20078 Edwards Ports Suite 846
+East Joyceport, ME 21929",+1-829-283-2668x3579,IT Services,GB71DPWQ61294774829917,2024-04-01,False
+TIN00099,"Powell, Hughes and Scott","USCGC Brock
+FPO AE 74496",001-374-755-7334x2646,Manufacturing,GB52QGXZ75648727765822,2022-11-15,False
+TIN00100,"Marks, Rosario and Ramos","17606 Michael Springs Suite 723
+Juliestad, PW 64455",+1-256-924-1380x01991,Manufacturing,GB11VAWC32836742223364,2021-02-26,False
+TIN00101,"French, Sanders and Mclaughlin","24238 Hernandez Square
+Rebeccaberg, FL 74773",994.557.2847x12561,Healthcare,GB56DYSS09784993269944,2023-10-25,False
+TIN00102,Kemp-Holloway,"69125 Flores Tunnel Apt. 693
+Michaeltown, OH 64815",984-588-2888,Healthcare,GB19HQKU41075309689530,2023-11-14,False
+TIN00103,"Cook, Santiago and Evans","0298 Christopher Keys
+Josephhaven, PW 93954",393.784.1076,IT Services,GB23XBOH60821328144483,2024-03-21,False
+TIN00104,Wilson-Lewis,"826 Dalton Coves
+Carterburgh, NY 36678",(329)700-5845,Healthcare,GB16PTPV20293026747849,2024-07-13,False
+TIN00105,Benson-Oconnor,"PSC 6838, Box 3556
+APO AP 01178",+1-421-266-3299x6517,Construction,GB56FOCE29832075875024,2023-06-12,False
+TIN00106,"Andrade, Wilson and Anthony","397 Brown Junctions Suite 716
+Alyssaport, MO 57003",586.577.8292x78446,Healthcare,GB97ABBM52591949007717,2024-01-20,False
+TIN00107,Bishop LLC,"17505 Stacey Motorway Apt. 988
+Janettown, CA 15536",405.506.5312x9810,Construction,GB74VYLI36240162746032,2021-07-21,False
+TIN00108,Larson-Baker,"3115 Christy Mill
+New Russell, MH 24306",672-817-9549,IT Services,GB87ZTMT16935671914767,2020-09-07,False
+TIN00109,Nicholson-Estrada,"130 Douglas Forge
+West Susanside, TN 32342",378.878.7983x068,Manufacturing,GB27BAYS91055869747460,2024-04-04,False
+TIN00110,"Gonzalez, Scott and Pierce","2035 Smith Dam Apt. 761
+West Susanburgh, FM 22149",001-687-646-2668x490,Manufacturing,GB70GXJN55116752750197,2022-08-01,False
+TIN00111,Hernandez Ltd,"90567 Paula Streets Apt. 295
+New Loritown, VT 26014",610-302-1562x44492,Healthcare,GB60KYUS46498732426554,2022-02-02,False
+TIN00112,Bell-Blanchard,"910 Tara Oval Suite 680
+Mendezborough, HI 82291",225.277.4017x5501,Construction,GB79IBXI96703161072304,2021-10-07,False
+TIN00113,Lawrence PLC,"019 Johnny Hollow
+Grahamtown, CO 41168",+1-348-687-7966x49567,Retail,GB72CCPQ66964141593988,2023-07-18,False
+TIN00114,"Compton, Brennan and Ayala","747 Emily Expressway
+North Tina, WI 92084",826.288.3557x53802,Retail,GB15QILT92575791636617,2022-07-29,False
+TIN00115,Davis-Vaughn,"536 Tina Plains Apt. 105
+Wesleyburgh, WV 83044",+1-378-618-6245x6924,Retail,GB68ZYYO62165947952244,2023-01-22,False
+TIN00116,Friedman-Alexander,"758 Martin Streets
+East Dillonborough, OK 16921",885-228-7495x2967,Manufacturing,GB21KJAX67507678786046,2023-04-21,False
+TIN00117,"Sanchez, Aguirre and Monroe","1857 Jeffrey Inlet
+New Benjamin, HI 58963",(265)377-8054,Manufacturing,GB07ASBC86550390475646,2024-01-17,False
+TIN00118,Shaw Inc,"6620 Ashley Knolls Suite 288
+East Justinburgh, PR 24140",(446)242-2294x1327,Construction,GB93MBID07497372054268,2022-11-26,False
+TIN00119,Williams-Parsons,"481 Jennifer Parkway Suite 948
+South Bryanport, AK 92478",969-934-4209x2503,Healthcare,GB05SDLF82405772451310,2022-10-06,False
+TIN00120,"Buck, Martinez and Day","45689 Torres Neck Suite 748
+Port Brianchester, MT 94429",208-464-0274x5861,Retail,GB23TPAO96677878235480,2021-01-06,False
+TIN00121,"Cuevas, Medina and Robertson","1833 Jonathan Fields
+East Danafort, HI 71661",(344)481-3267x60804,Construction,GB94ALFT83381355772462,2023-09-24,False
+TIN00122,Willis-Francis,"5482 White Hills
+Montgomerytown, DC 73177",001-254-397-9552x6772,Construction,GB26MEZT26188244751331,2024-07-09,False
+TIN00123,"Gregory, Choi and Coleman","9266 Proctor Branch Suite 609
+Haneymouth, DC 05388",682.613.3625x206,Healthcare,GB87MGMF26334648061290,2023-08-13,False
+TIN00124,"Anderson, Guerra and Haynes","424 Campbell Island Apt. 441
+Wellsstad, MT 31762",648.526.6712x50910,Construction,GB66UHIN00870793779896,2022-10-09,False
+TIN00125,"Marks, Reyes and Randolph","325 Johnson Squares
+Blairmouth, AL 10060",(565)247-4790x8376,Healthcare,GB17GCCF43072269406817,2024-06-30,False
+TIN00126,Anderson Ltd,"740 Farmer Pass Apt. 741
+Port Suzanne, AS 40290",736.835.8032x800,IT Services,GB94RZEQ26935881086713,2021-05-07,False
+TIN00127,"Dunn, Herring and Miller","987 Rodgers Forge
+Jenniferstad, OK 16744",001-684-935-6583x408,Healthcare,GB29QAFO95757823407412,2021-01-19,False
+TIN00128,"Lucas, Brown and Mendez","USNS Greer
+FPO AA 33765",(896)456-6474x45173,Retail,GB11WZVV24990136928883,2021-02-15,False
+TIN00129,Nguyen Ltd,"PSC 4543, Box 0348
+APO AE 82617",9842688479,Retail,GB71UCGE14099701840472,2021-11-02,False
+TIN00130,Ellis and Sons,"239 Hernandez Brooks Apt. 086
+Bentleyville, AZ 84266",+1-443-372-8054,Healthcare,GB21PXAW91995205056138,2024-07-01,False
+TIN00131,"David, Moran and Townsend","7468 Mark Village Apt. 547
+Millerton, OR 72300",001-676-346-8151x72569,IT Services,GB70RYTQ33778086189581,2021-07-04,False
+TIN00132,Mcclain-Wilson,"058 Long Point Suite 437
+North Emily, GU 34809",446-684-1130x4141,IT Services,GB23CUGJ97815297339652,2023-11-29,False
+TIN00133,"Solis, Hubbard and Delacruz","81763 Nunez Circles
+North Ericshire, NH 73994",282.781.0228,Retail,GB87QHKE62683362838902,2021-11-07,False
+TIN00134,Horn-Cochran,"7283 Jones Brook
+Johnside, NJ 52393",203.695.4758,IT Services,GB86QQLQ15855702346630,2024-02-29,False
+TIN00135,Butler-Jackson,"62954 Richard Run
+Taylorberg, AL 98802",344-889-3950x21030,Construction,GB43PVJX10590577210622,2020-08-11,False
+TIN00136,Lopez-Miller,"114 Jennifer Canyon
+Robinsonburgh, GU 79220",001-866-909-1747x9739,Manufacturing,GB04BJJW68046513004102,2022-09-01,False
+TIN00137,Hess Ltd,"497 Mendoza Points
+Alishahaven, PA 25112",(748)762-2469,Construction,GB34ETPW70932544260274,2020-08-24,False
+TIN00138,"Rodriguez, Price and Ruiz","PSC 6155, Box 6256
+APO AA 19148",(817)534-0246,Retail,GB06DUFP63137169089738,2022-10-28,False
+TIN00139,Stewart Ltd,"47695 Tommy Stream
+Bradleyport, HI 93524",602-741-1390,IT Services,GB40AKGO88336594302953,2024-06-04,False
+TIN00140,White LLC,"4239 Cabrera Hills
+Booneshire, AK 94313",546-841-6650,Healthcare,GB72LPJL30216113601399,2021-01-30,False
+TIN00141,Molina Inc,"69684 Maria Freeway Apt. 349
+East Walter, CO 01555",(530)210-3402,Manufacturing,GB87HSVS25921239801061,2020-08-02,False
+TIN00142,Wilson-Li,"0377 Amanda Neck Apt. 109
+Lake Cynthia, DC 57148",762.260.2188,Healthcare,GB84SVID09253056883061,2023-10-24,False
+TIN00143,Harrison-Yang,"567 Palmer Mission Suite 374
+South Sandra, NJ 11615",939-802-3994x3630,Retail,GB70GDLS98676450196031,2023-04-20,False
+TIN00144,Brown PLC,"623 Tammy Mountain
+North Jennifer, MT 12040",980-363-7480x064,IT Services,GB68NTXX56612745007171,2021-10-17,False
+TIN00145,Clark and Sons,"0825 Harper Row Suite 598
+Nicoleburgh, SC 61695",381.573.8110x268,Healthcare,GB52SQMH98531160384628,2021-07-11,False
+TIN00146,"Bowman, Becker and Morse","3015 Thomas Cliffs Apt. 042
+Port Victor, MO 87451",(997)297-4768x67083,Healthcare,GB45OITB56991995214727,2021-01-11,False
+TIN00147,Peters Inc,"964 Henry Summit
+Port Amy, FM 76051",356-766-8606,Manufacturing,GB66ZBQJ42803226184556,2022-03-23,False
+TIN00148,"Williams, Garcia and Lopez","USNV Orozco
+FPO AE 98005",915-997-9209x26581,Manufacturing,GB52SCVK90223206127358,2022-12-12,False
+TIN00149,Berry Inc,"943 Phillips Route
+South Amanda, NM 95933",695.517.8339x486,IT Services,GB86GZCH75940995179272,2024-06-10,False
+TIN00150,"Parsons, Martinez and Graham","2933 Nicole Parks Suite 110
+North Robert, MO 43558",653-239-3391,Manufacturing,GB68NFIP72516790936691,2024-01-07,False
+TIN00151,Smith-Vaughan,"PSC 5983, Box 3061
+APO AA 45749",+1-778-583-0779x109,Healthcare,GB31GGVG49776821953755,2023-03-06,False
+TIN00152,"Yu, Wright and Fisher","Unit 6237 Box 7106
+DPO AA 30755",604.545.6282x63644,Healthcare,GB36WOQO27469390140743,2023-08-16,False
+TIN00153,"Schneider, Gonzalez and Vincent","07592 Phillips Greens Apt. 143
+East Jon, HI 39455",658.627.7044x1431,Retail,GB57GZGO84312462594320,2022-11-27,False
+TIN00154,Hunter LLC,"6273 Richard Mills Apt. 121
+New Pamelaland, GU 41272",(903)297-9423,Healthcare,GB86RJAN35007986229863,2022-12-12,False
+TIN00155,Anderson and Sons,"6466 Stephanie Gardens Suite 469
+Carolineport, KS 63141",353.608.3501,IT Services,GB12IIFP32795648187819,2021-11-27,False
+TIN00156,Gomez and Sons,"4486 Danielle Ports
+South Pamelaburgh, GA 18488",001-498-441-7475,Construction,GB15HQFL29369777123120,2022-09-27,False
+TIN00157,Brown-Stephens,"997 Justin Divide
+Mckinneymouth, MD 55050",+1-351-412-6532x05287,Retail,GB34EOUD40436862482460,2021-02-14,False
+TIN00158,Holmes and Sons,"92273 Pamela Route
+Smithchester, PA 83042",457-273-8270,Retail,GB77JJOH65147475277948,2021-07-10,False
+TIN00159,Jones LLC,"8098 Hernandez Via Suite 936
+Merrittton, HI 11765",+1-872-698-8535x95798,IT Services,GB31TWVV77869656163034,2024-01-09,False
+TIN00160,Allen-Mann,"208 Douglas Plain
+Amandatown, OR 37758",200.215.3827x912,IT Services,GB08FAQH00899643052515,2021-10-25,False
+TIN00161,James-Ford,"5726 Linda Walk Apt. 648
+Paulfurt, CT 75684",(472)343-2674,Manufacturing,GB26VSEU89041777671010,2020-09-11,True
+TIN00162,Marks-Smith,"446 Hill Isle
+Shelbyfurt, MN 75266",+1-954-531-7670,Retail,GB72ORNA55290792892257,2022-09-16,False
+TIN00163,"Duke, Barnett and Page","16953 Conner Cliff
+Tinaview, FL 41135",806.312.6177,Manufacturing,GB21UFPC14078702091239,2023-01-11,False
+TIN00164,"Perez, Garcia and Ramirez","95270 Jordan Cape
+South Lisa, CT 18693",3676154086,Healthcare,GB76SALT91032354055102,2024-05-11,False
+TIN00165,Pearson-Todd,"917 Janet Greens
+Elizabethborough, MS 36301",001-737-489-5686x8208,Retail,GB10NDPP20896803517856,2023-10-30,False
+TIN00166,Carr-Hill,"49705 Jordan Lock Apt. 566
+Johnhaven, MN 81379",502-632-0804x529,Retail,GB63AKSG65117132984441,2022-01-16,False
+TIN00167,"Howard, Jackson and Young","894 Ramirez Street Suite 192
+Nancyville, ND 29381",824.521.4434x891,Construction,GB91SNBI02263312237490,2021-07-26,False
+TIN00168,"Hernandez, Collins and Conner","928 Brown Square Suite 506
+South Marcus, GU 25508",385.301.3321,Retail,GB73XUAX76819530081794,2023-08-05,False
+TIN00169,"Horton, Welch and Young","868 Erin Stream Suite 855
+Walkermouth, NE 90489",+1-563-445-5466x0741,Healthcare,GB37PTYJ35797338459533,2022-12-07,False
+TIN00170,Kidd-Miller,"063 Lopez River Suite 210
+Hooperstad, MO 99942",292-955-4064,Manufacturing,GB27TQPI13848017179563,2023-05-23,False
+TIN00171,Miller and Sons,"714 Alan Burg
+North Jonathan, NC 20243",001-309-417-8386x54903,Manufacturing,GB23MIFR45072919039714,2024-01-27,False
+TIN00172,Morgan-Rodriguez,"073 Mason Vista Apt. 289
+Millerport, IN 44912",+1-754-676-8822x52262,Construction,GB14QNPH49341053550695,2021-03-17,False
+TIN00173,Christensen Group,"7908 Jones Alley Suite 562
+Port Randy, GU 01326",989.310.4439x686,Healthcare,GB08VGZC41421275517851,2024-06-14,False
+TIN00174,"Quinn, Shaw and Wright","50512 Angela Viaduct Apt. 240
+Katherineborough, WV 60614",(979)217-5181,Manufacturing,GB10OMYW53948064383887,2023-07-30,False
+TIN00175,Miller PLC,"70625 Carter Flat
+West Lindsey, DE 45356",(325)463-9559,IT Services,GB17ACRE73955004874965,2022-01-24,False
+TIN00176,"Sherman, Mitchell and Jenkins","64846 Dustin Fork Apt. 138
+Richardbury, NH 91517",(636)712-6212,Healthcare,GB30UFJH60494670348368,2023-05-25,False
+TIN00177,Kennedy-Andrews,"9807 Ruiz Green
+Perezside, PR 90789",001-669-902-5772,Healthcare,GB08EPOT29055533222868,2024-02-22,False
+TIN00178,"Nunez, Becker and Spencer","107 Cole Key Apt. 899
+South Aprilberg, ND 64571",001-842-797-4057x177,Construction,GB50JRDJ34481989892389,2021-07-25,False
+TIN00179,Howell and Sons,"0519 Victoria Fork Suite 366
+New Thomas, SD 17727",(271)402-3759,Manufacturing,GB70IZJY89252602514604,2021-11-07,False
+TIN00180,Brown LLC,"545 Ashley Alley
+Matthewsport, MD 50382",+1-738-434-4266x5338,Healthcare,GB81NYQB20968318638265,2024-03-11,False
+TIN00181,Greer Inc,"91267 Diana Spring Suite 557
+Rayton, MA 35015",(926)859-4510x627,Manufacturing,GB65JEHV83859307317675,2021-02-25,True
+TIN00182,Cooper-Church,"2429 Wolfe Mountains Apt. 268
+Jenniferburgh, WY 27925",502.913.3986x792,IT Services,GB17DMXC95650586274088,2022-11-27,False
+TIN00183,"Anderson, Gray and Mitchell","61934 Joshua Glens Suite 008
+Bettyport, VA 19855",607-501-0950,Construction,GB32VVMI72398431786781,2023-07-21,False
+TIN00184,"Woods, Hays and Campos","1987 Klein Well Apt. 540
+West Michaelmouth, GA 61295",(305)591-9394x71066,IT Services,GB52BATR04597527406230,2020-09-14,False
+TIN00185,King-Wilkins,"3707 Rollins Circle Suite 766
+New Lindsey, MN 07733",297.834.3835x08172,Construction,GB93WFXU29395209668638,2022-12-14,False
+TIN00186,Harris-Burch,"2261 Michael Turnpike Suite 220
+Port Lucas, NM 89844",(461)807-5529,Healthcare,GB24WBWI40704027635886,2020-10-29,False
+TIN00187,Silva Inc,"277 Romero Fork
+Adamshire, NY 88882",001-621-743-6866x5148,Construction,GB17OSDV95566207156093,2021-11-26,False
+TIN00188,"Morgan, Horne and Yang","239 Gabriel Burgs Apt. 749
+South Jasonburgh, AZ 92091",(801)783-6652x2561,Retail,GB38LCQN28405593342006,2021-12-29,False
+TIN00189,Boone LLC,"80102 Atkinson Circles
+New Brandon, NY 57229",001-473-426-3103x38582,Manufacturing,GB03GXZL28689225446108,2023-12-01,False
+TIN00190,"Choi, Morgan and Anderson","3362 Brown Parkways
+Port Darrell, FM 17322",+1-772-711-9623x6551,Manufacturing,GB80OJKW90187968983420,2024-01-10,False
+TIN00191,Gonzalez-Bennett,"5245 Joshua Ranch
+Port Danielport, ND 97435",454.278.6823x1006,Retail,GB25XFFP90310851839819,2022-11-13,False
+TIN00192,Brown and Sons,"17188 Jenna Overpass
+Hamiltonville, TX 00947",529-530-6794x7452,IT Services,GB34GNRP25436718983328,2021-03-01,False
+TIN00193,Wilkins-Fry,"1830 Jones Ports
+West Charleston, TN 03739",(808)485-3572,Retail,GB93RCRQ59970263264972,2020-09-03,False
+TIN00194,Campbell-Boyd,"6868 Brown Brook Suite 252
+New Amy, OH 64990",4119451477,Healthcare,GB34ZRYE37406697196827,2022-03-05,False
+TIN00195,Bryant-Henderson,"4381 Debra Hill Suite 108
+Port Patriciamouth, SD 28386",844-396-1064,Healthcare,GB93FZIK81266465552204,2020-11-14,False
+TIN00196,Brown and Sons,"024 Joseph Bypass
+Lanestad, ME 43607",(205)635-6418x55231,Manufacturing,GB67HDMJ70446607758576,2022-05-22,False
+TIN00197,"Price, Collier and Bailey","USS Gibson
+FPO AP 49178",001-282-374-2705x95106,Healthcare,GB33TRVL46403735097366,2023-11-26,False
+TIN00198,Martinez Group,"703 Taylor Causeway
+Erikastad, NC 39133",001-260-236-3819x56344,Manufacturing,GB90BVAU20588293290822,2023-02-15,False
+TIN00199,"Lucero, Norman and Hardy","06333 Green Route
+Brianburgh, AZ 68558",(549)431-7370x68124,Retail,GB63XDDV38063238678294,2020-08-03,False

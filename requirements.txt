@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+faker
+plotly
+scikit-learn
+xgboost
+networkx
+pyod
+seaborn
+streamlit-aggrid
+python-dateutil
+torch==2.0.1  # Add this line for PyTorch
