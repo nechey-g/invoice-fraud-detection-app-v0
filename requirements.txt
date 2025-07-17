@@ -11,3 +11,4 @@ pyod==1.0.9
 streamlit-aggrid==0.3.4.post3
 seaborn==0.12.2
 python-dateutil==2.8.2
+torch==2.7.1
